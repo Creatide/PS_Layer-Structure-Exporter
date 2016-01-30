@@ -17,9 +17,47 @@ Just run script file and you have two different export options. Select one and e
 
 #### Text Tree Format
 
+```
+LayerStructureExporter_Example.psd Layer Structure Exporter
+
+GUI Screenshot
+Logo
+   |-- Text and Icon
+   |   |-- PS Icon
+   |   |-- Layer Structure Exporter
+   |-- Lines
+   |-- Bar
+Back
+   |-- Back Text Elements
+   |   |-- Text File Tree
+   |   |-- Text File Text
+   |   |-- Markdown Export
+   |   |-- Markdown Text
+   |-- Background White
+```
+
 <a href="https://www.dropbox.com/s/gd4io0egdwcwx1x/LayerStructureExporter_Examle_Text.gif?raw=1" target="_blank">![Gif](https://www.dropbox.com/s/gd4io0egdwcwx1x/LayerStructureExporter_Examle_Text.gif?raw=1)</a>
 
 #### Markdown Format
+
+```
+##LayerStructureExporter_Example.psd Layer Structure Exporter
+
+* GUI Screenshot
+* **Logo**
+	* **Text and Icon**
+		* PS Icon
+		* Layer Structure Exporter
+	* Lines
+	* Bar
+* **Back**
+	* **Back Text Elements**
+		* Text File Tree
+		* Text File Text
+		* Markdown Export
+		* Markdown Text
+	* Background White
+```
 
 <a href="https://www.dropbox.com/s/ncqjhrlvn35f3wp/LayerStructureExporter_Examle_Markdown.gif?raw=1" target="_blank">![Gif](https://www.dropbox.com/s/ncqjhrlvn35f3wp/LayerStructureExporter_Examle_Markdown.gif?raw=1)</a>
 
