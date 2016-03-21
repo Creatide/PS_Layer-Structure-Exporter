@@ -59,7 +59,7 @@ Back
 	* Background White
 ```
 
-<a href="https://www.dropbox.com/s/ncqjhrlvn35f3wp/LayerStructureExporter_Examle_Markdown.gif?raw=1" target="_blank">![Gif](https://www.dropbox.com/s/ncqjhrlvn35f3wp/LayerStructureExporter_Examle_Markdown.gif?raw=1)</a>
+![Example](https://github.com/Creatide/PS_Layer-Structure-Exporter/blob/master/README/LayerStructureExporter_Examle_Text.gif)
 
 #### Features
 
